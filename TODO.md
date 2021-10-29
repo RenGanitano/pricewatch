@@ -2,3 +2,4 @@
 - ui
 - scraper (only for Shopify and grabs product JSON)
 - should pop up automatically on Shopify store pages
+- testing
